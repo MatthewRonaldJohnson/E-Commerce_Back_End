@@ -12,7 +12,7 @@ Product.init(
     // define columns
     //default id
     //product_name (string, NOT NULL)
-    produce_name: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
