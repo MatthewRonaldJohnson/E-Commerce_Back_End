@@ -100,8 +100,6 @@ router.delete('/:id', async ({params: {id}}, res) => {
     console.log(err.message)
     res.json(err)
   }
-  // delete one product by its `id` value
-  
 });
 
 module.exports = router;
