@@ -15,13 +15,13 @@ A video demostrating how this program's functionality using Insomnia can be foun
 Below are three images that show exmaples of responses for get requests.
 
 Example Category Get Response  
-![Example Category Get Response](assets\img\Example-Category-Get.PNG)  
+![Example Category Get Response](https://raw.githubusercontent.com/MatthewRonaldJohnson/E-Commerce_Back_End/main/assets/img/Example-Category-Get.PNG)  
 
 Example Product Get Response  
-![Example Product Get Response](assets\img\Example-Product-Get.PNG)  
+![Example Product Get Response](https://raw.githubusercontent.com/MatthewRonaldJohnson/E-Commerce_Back_End/main/assets/img/Example-Product-Get.PNG)  
 
 Example Tag Get Response  
-![Example Tag Get Response](assets\img\Example-Tag-Get.PNG)
+![Example Tag Get Response](https://raw.githubusercontent.com/MatthewRonaldJohnson/E-Commerce_Back_End/main/assets/img/Example-Tag-Get.PNG)
         
 ## Installation Instructions
 
